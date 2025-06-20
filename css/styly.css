@@ -712,6 +712,10 @@ header #menu {
 		transform: rotate(90deg);
 	}
 
+	html, body {
+		overflow-x: hidden;
+	}
+
 	.tech-info {
 		display: flex;
 		flex-wrap: wrap;
