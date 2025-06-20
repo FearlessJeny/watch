@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Nunito';
-    src: url(/fonts/Nunito-Italic-VariableFont_wght.woff2) format('woff2'),
-         url(/fonts/Nunito-Italic-VariableFont_wght.ttf) format('truetype');
+    src: url(./fonts/Nunito-Italic-VariableFont_wght.woff2) format('woff2'),
+         url(./fonts/Nunito-Italic-VariableFont_wght.ttf) format('truetype');
          font-style: italic;
          font-display: swap;
 }
